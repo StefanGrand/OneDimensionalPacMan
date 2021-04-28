@@ -1,4 +1,4 @@
-# PacMan
+# OneDimensional PacMan
 
 #Description
 MIT xPro Coding Excercise
